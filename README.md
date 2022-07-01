@@ -23,6 +23,9 @@ To verify the signatures using GnuPG:
 4. gpg --verify canary.txt
 
 You should see a message similar to below confirming the signature is good:
+
+```
 gpg: Signature made Thu Jun 30 23:28:35 2022 EDT
 gpg:                using RSA key 55D75B9F47712B014C947B039CF7845EC1782E02
 gpg: Good signature from "Brian Lee"
+```
